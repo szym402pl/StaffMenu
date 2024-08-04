@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StaffMenu.iml" filepath="$PROJECT_DIR$/.idea/modules/StaffMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StaffMenu.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StaffMenu.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StaffMenu.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StaffMenu.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/me.xiaojibazhanshi.StaffMenu.main.iml" filepath="$PROJECT_DIR$/.idea/modules/me.xiaojibazhanshi.StaffMenu.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/me.xiaojibazhanshi.StaffMenu.test.iml" filepath="$PROJECT_DIR$/.idea/modules/me.xiaojibazhanshi.StaffMenu.test.iml" />
     </modules>
   </component>
 </project>

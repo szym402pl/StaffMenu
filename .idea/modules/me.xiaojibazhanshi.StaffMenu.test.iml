@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="StaffMenu:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="me.xiaojibazhanshi" external.system.module.type="sourceSet" external.system.module.version="1" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>ADVENTURE</platformType>
+        </autoDetectTypes>
+        <projectReimportVersion>1</projectReimportVersion>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="me.xiaojibazhanshi.StaffMenu.main" />
+    <orderEntry type="library" name="Gradle: dev.triumphteam:triumph-gui:3.1.10" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-platform-bukkit:4.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-text-serializer-gson:4.17.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-text-serializer-legacy:4.17.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-api:4.17.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-nbt:4.17.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-platform-api:4.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-text-serializer-bungeecord:4.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-text-serializer-json:4.17.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.auto.service:auto-service-annotations:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:adventure-key:4.17.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:examination-string:1.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:examination-api:1.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.jetbrains:annotations:24.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.kyori:option:1.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.kyori:adventure-text-serializer-gson-legacy-impl:4.13.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.kyori:adventure-platform-viaversion:4.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.kyori:adventure-platform-facet:4.3.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="StaffMenu.main" />
+</module>

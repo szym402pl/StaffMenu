@@ -34,7 +34,7 @@ public class MainGUI {
             gui.close(player);
             Util.handleVanish(player);
 
-            String message = Util.isVanished(player) ? configManager.getMsgVanishOff() : configManager.getMsgVanishOn();
+            String message = Util.isVanished(player) ? configManager.getMsgVanishOn() : configManager.getMsgVanishOff();
             player.sendMessage(message);
         });
 

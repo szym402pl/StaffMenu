@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.triumphteam:triumph-gui:3.1.10" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="dev.triumphteam" artifactId="triumph-gui" version="3.1.10" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.triumphteam/triumph-gui/3.1.10/177ae57299aab3efddb06c1cf67812f80565d9b0/triumph-gui-3.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

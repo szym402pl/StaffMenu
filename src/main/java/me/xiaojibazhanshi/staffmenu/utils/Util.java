@@ -19,7 +19,6 @@ public class Util {
 
     public static Set<UUID> hiddenPlayers = new HashSet<>();
     public static List<UUID> playersSendingAlert = new ArrayList<>();
-    private static final ConfigManager configManager = StaffMenu.getInstance().getConfigManager();
 
     // vanish logic
 
