@@ -1,0 +1,10 @@
+name: StaffMenu
+version: '1'
+main: me.xiaojibazhanshi.staffmenu.StaffMenu
+api-version: '1.20'
+authors: [ XiaoJibaZhanshi ]
+description: A staff command plugin
+commands:
+  staff:
+    description: A staff menu.
+    usage: /staff <reload*>

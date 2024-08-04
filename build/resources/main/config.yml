@@ -1,0 +1,85 @@
+# Made by XiaoJibaZhanshi
+
+messages:
+  vanish-on: "&aVanish has been turned ON!"
+  vanish-off: "&cVanish has been turned OFF!"
+  alert-prompt: "&aType in the alert you'd want to send. \n&7Type 'cancel' to cancel."
+  alert-expiry: "&cTime to send the alert has expired! Try again."
+  alert-format: "&c[YourServer] ALERT: {message}"
+  alert-cancelled: "&cYou've cancelled the alert."
+  teleported: "&aTeleported you to the player: &c{target}"
+  gm-change: "&aChanged your game mode to {game-mode}"
+
+main-gui:
+  title: "&7Staff GUI"
+  items:
+    vanish-item:
+      material: RED_DYE
+      name: "&7Turn vanish on/off"
+      lore:
+        - ""
+        - "&7Spanish or vanish."
+        - "&7(Click me)"
+    rtp-item:
+      material: ENDER_EYE
+      name: "&7Randomly teleport"
+      lore:
+        - ""
+        - "&7Teleport to a random player."
+        - "&7(Click me)"
+    tp-item:
+      material: ENDER_PEARL
+      name: "&7Teleport to a player"
+      lore:
+        - ""
+        - "&7Select a player to teleport to"
+        - "&7(Click me)"
+    gm-item:
+      material: COMPASS
+      name: "&7Change game mode"
+      lore:
+        - ""
+        - "&7Select a game mode you can switch to"
+        - "&7(Click me)"
+    alert-item:
+      material: GOAT_HORN
+      name: "&7Send an alert"
+      lore:
+        - ""
+        - "&7Send a global alert on the chat"
+        - "&7(Click me)"
+
+player-teleport-gui:
+  title: "&7Select a player to teleport to"
+  player-format:
+    material: PLAYER_HEAD
+    name: "&a{player}"
+    lore:
+      - ""
+      - "&7Teleport to this player."
+      - "&7(Click me)"
+
+game-mode-change-gui:
+  title: "&7Select a game mode"
+  items:
+    survival:
+      material: GRASS_BLOCK
+      name: "&aGame mode survival"
+      lore:
+        - ""
+        - "&7Change game mode to survival"
+        - "&7(Click me)"
+    creative:
+      material: NETHERITE_BLOCK
+      name: "&bGame mode creative"
+      lore:
+        - ""
+        - "&7Change game mode to creative"
+        - "&7(Click me)"
+    spectator:
+      material: GLASS
+      name: "&7Game mode spectator"
+      lore:
+        - ""
+        - "&7Change game mode to spectator"
+        - "&7(Click me)"
